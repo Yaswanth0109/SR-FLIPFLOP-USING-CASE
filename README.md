@@ -61,10 +61,7 @@ endmodule
 <img width="1109" height="666" alt="image" src="https://github.com/user-attachments/assets/ba4a35ce-c84d-4477-b185-f7c55b4104f3" />
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
-<img width="1921" height="1201" alt="image" src="https://github.com/user-attachments/assets/7eda1d5d-716e-482f-98b6-0a51fb46fb6f" />
-RESULTS
-
-Thus the SR flipflop is implemented and verified.
-
+<img width="1921" height="1201" alt="image" src="https://github.com/user-attachments/assets/8b2aa61e-5ca3-46f3-978c-24b93b54ea88" />
 
 **RESULTS**
+Thus the SR flipflop is implemented and verified.
